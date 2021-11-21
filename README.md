@@ -6,7 +6,7 @@ This is the code for Skribbl.io Clone developed with Flutter, Node.js, MongoDB a
 I have created a tutorial series based on this, do check it out on my channel [Rivaan Ranawat](https://youtube.com/playlist?list=PLlzmAWV2yTgBM0dvvvfXjnsET5yaNp5U_) 
 
 <p align="center">
-  <img width="200" src="https://i.ytimg.com/vi/Ku0lAMvoi7Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDejCSBhF7wyvJCPHopHYMZM2N0BA" alt="Youtube Tutorial Image">
+  <img width="600" src="https://github.com/RivaanRanawat/skribblio-youtube-tutorial/blob/master/thumbnail.png" alt="Youtube Tutorial Image">
 </p>
 
 ### Youtube Tutorials
